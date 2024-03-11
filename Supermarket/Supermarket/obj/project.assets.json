@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\HK2 2023-2024\\SupermarketProject\\Supermarket\\Supermarket\\Supermarket.csproj",
+      "projectUniqueName": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Supermarket.csproj",
       "projectName": "Supermarket",
-      "projectPath": "D:\\Study\\HK2 2023-2024\\SupermarketProject\\Supermarket\\Supermarket\\Supermarket.csproj",
+      "projectPath": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Supermarket.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\HK2 2023-2024\\SupermarketProject\\Supermarket\\Supermarket\\obj\\",
+      "outputPath": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
