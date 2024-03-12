@@ -29,7 +29,15 @@
         </nav>
     </header>
     <div class="container">
-        @RenderBody()
+        <div class="pb-3">
+            @*Khi không muốn dùng section này thì có để điền tham số thứ hai vào là false để không bắt buộc dùng, để mặc định thì là true*@
+            @RenderSection("title")
+            <hr />
+        </div>
+
+        <div>
+            @RenderBody()
+        </div>
     </div>  
 </body>
 </html>
