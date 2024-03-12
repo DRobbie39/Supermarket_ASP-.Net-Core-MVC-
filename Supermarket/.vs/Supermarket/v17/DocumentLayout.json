@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|d:\\study\\hk2 2023-2024\\supermarket_asp-.net-core-mvc-\\supermarket\\supermarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|d:\\study\\hk2 2023-2024\\supermarket_asp-.net-core-mvc-\\supermarket\\supermarket\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -67,6 +71,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Supermarket\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Supermarket\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T13:47:29.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Supermarket\\Views\\_ViewStart.cshtml",
