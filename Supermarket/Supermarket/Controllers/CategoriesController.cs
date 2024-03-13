@@ -7,7 +7,10 @@ namespace Supermarket.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            //Hiển ra tất cả thể loại
+            var categories = CategoriesRepository.GetCategories();
+            //Kết hợp model vào view
+            return View(categories);
         }
 
         public IActionResult Edit(int? id)

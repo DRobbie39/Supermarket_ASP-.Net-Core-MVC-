@@ -1,13 +1,33 @@
-﻿@section title{
+﻿@*Khai báo kiểu dữ liệu cho model mà ta đang làm việc, ở đây là dạng danh sách List*@
+@model List<Category>
+
+@section title{
     <h3>Categories</h3>
 }
 
-<ul>
-    <li>
-        <a href="/categories/edit/1">Beverage</a>
-    </li>
+@*Thêm điều kiện bảo vệ để tránh lỗi ngoại lệ*@
+@if(Model != null && Model.Count() > 0)
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+                <th></th>
+            </tr>
+        </thead>
 
-    <li>
-        <a href="/categories/edit/2">Meat</a>
-    </li>
-</ul>
+        <tbody>
+            @*Dùng foreach để lặp qua các danh sách thể loại, Model là thể hiện của dữ liệu List<Category>*@
+            @foreach(var category in Model)
+            {
+                <tr>
+                    <td>@category.Name</td>
+                    <td>@category.Description</td>
+                    @*@($"/categories/edit/{category.CategoryId}") biểu thức này là biểu thức razor minh bạch/rõ ràng*@
+                    <td><a class="btn btn-link" asp-controller="categories" asp-action="edit" asp-route-id="@category.CategoryId">Edit</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>  
+}
