@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|d:\\study\\hk2 2023-2024\\supermarket_asp-.net-core-mvc-\\supermarket\\supermarket\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|d:\\study\\hk2 2023-2024\\supermarket_asp-.net-core-mvc-\\supermarket\\supermarket\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|d:\\study\\hk2 2023-2024\\supermarket_asp-.net-core-mvc-\\supermarket\\supermarket\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,6 +71,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Supermarket\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Supermarket\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T15:41:45.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Supermarket\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Supermarket\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T15:32:43.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Supermarket\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Supermarket\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-14T15:31:13.47Z",
+              "EditorCaption": ""
             }
           ]
         }
