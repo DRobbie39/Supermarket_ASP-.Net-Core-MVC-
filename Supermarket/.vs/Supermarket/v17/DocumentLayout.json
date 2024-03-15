@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "Supermarket\\Views\\Categories\\Edit.cshtml",
               "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\Edit.cshtml",
               "RelativeToolTip": "Supermarket\\Views\\Categories\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-14T15:41:45.044Z",
               "EditorCaption": ""
@@ -93,7 +93,7 @@
               "RelativeDocumentMoniker": "Supermarket\\Controllers\\CategoriesController.cs",
               "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Supermarket\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwBsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T15:32:43.706Z",
               "EditorCaption": ""
@@ -108,8 +108,7 @@
               "RelativeToolTip": "Supermarket\\Views\\Categories\\Index.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-14T15:31:13.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T15:31:13.47Z"
             }
           ]
         }
