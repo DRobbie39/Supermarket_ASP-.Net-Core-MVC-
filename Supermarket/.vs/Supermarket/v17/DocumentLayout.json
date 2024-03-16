@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|d:\\study\\hk2 2023-2024\\supermarket_asp-.net-core-mvc-\\supermarket\\supermarket\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|d:\\study\\hk2 2023-2024\\supermarket_asp-.net-core-mvc-\\supermarket\\supermarket\\models\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\models\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|d:\\study\\hk2 2023-2024\\supermarket_asp-.net-core-mvc-\\supermarket\\supermarket\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|d:\\study\\hk2 2023-2024\\supermarket_asp-.net-core-mvc-\\supermarket\\supermarket\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|d:\\study\\hk2 2023-2024\\supermarket_asp-.net-core-mvc-\\supermarket\\supermarket\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|d:\\study\\hk2 2023-2024\\supermarket_asp-.net-core-mvc-\\supermarket\\supermarket\\views\\categories\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\views\\categories\\_category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|d:\\study\\hk2 2023-2024\\supermarket_asp-.net-core-mvc-\\supermarket\\supermarket\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|d:\\study\\hk2 2023-2024\\supermarket_asp-.net-core-mvc-\\supermarket\\supermarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|d:\\study\\hk2 2023-2024\\supermarket_asp-.net-core-mvc-\\supermarket\\supermarket\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0E591F34-0053-4D2D-86F0-A76B6A9A1873}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,41 +90,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Supermarket\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Supermarket\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACkAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T17:59:53.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\Index.cshtml",
-              "RelativeDocumentMoniker": "Supermarket\\Views\\Categories\\Index.cshtml",
-              "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\Index.cshtml",
-              "RelativeToolTip": "Supermarket\\Views\\Categories\\Index.cshtml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAAB0AAACrAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-16T17:55:01.977Z",
+              "Title": "CategoriesRepository.cs",
+              "DocumentMoniker": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Models\\CategoriesRepository.cs",
+              "RelativeDocumentMoniker": "Supermarket\\Models\\CategoriesRepository.cs",
+              "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Models\\CategoriesRepository.cs",
+              "RelativeToolTip": "Supermarket\\Models\\CategoriesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T18:30:44.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Supermarket\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Supermarket\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T18:30:01.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\Add.cshtml",
+              "RelativeDocumentMoniker": "Supermarket\\Views\\Categories\\Add.cshtml",
+              "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\Add.cshtml",
+              "RelativeToolTip": "Supermarket\\Views\\Categories\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T18:23:39.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Supermarket\\Controllers\\CategoriesController.cs",
               "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Supermarket\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADUAAAA8AAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T15:32:43.706Z",
+              "WhenOpened": "2024-03-16T18:17:19.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Supermarket\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Supermarket\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T18:16:05.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Category.cshtml",
+              "DocumentMoniker": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\_Category.cshtml",
+              "RelativeDocumentMoniker": "Supermarket\\Views\\Categories\\_Category.cshtml",
+              "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\_Category.cshtml",
+              "RelativeToolTip": "Supermarket\\Views\\Categories\\_Category.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T18:15:12.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Supermarket\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\Study\\HK2 2023-2024\\Supermarket_ASP-.Net-Core-MVC-\\Supermarket\\Supermarket\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Supermarket\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T17:55:01.977Z",
               "EditorCaption": ""
             }
           ]

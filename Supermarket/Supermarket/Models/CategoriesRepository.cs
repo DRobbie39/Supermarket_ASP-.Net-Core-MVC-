@@ -4,9 +4,10 @@
     {
         private static List<Category> _categories = new List<Category>()
         {
-            new Category {CategoryId = 1, Name = "Beverage", Description = "Beverage" },
-            new Category {CategoryId = 2, Name = "Bakery", Description = "Bakery" },
-            new Category {CategoryId = 3, Name = "Meat", Description = "Meat" }
+            new Category {CategoryId = 1, Name = "Beverage", Description = "This is Beverage" },
+            new Category {CategoryId = 2, Name = "Bakery", Description = "This is Bakery" },
+            new Category {CategoryId = 3, Name = "Meat", Description = "This is Meat" },
+            new Category {CategoryId = 4, Name = "Drinks", Description = "This is Drinks" }
         };
 
         //Phương thức thêm thể loại mới

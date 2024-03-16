@@ -15,6 +15,8 @@ namespace Supermarket.Controllers
 
         public IActionResult Edit(int? id)
         {
+            //Thiết lập viewbag ở đây để truy cập vào controller edit
+            ViewBag.Action = "edit";
             var category = CategoriesRepository.GetCategoryById(id.HasValue?id.Value:0);
 
             return View(category);
@@ -34,6 +36,9 @@ namespace Supermarket.Controllers
 
         public IActionResult Add()
         {
+            //Thiết lập viewbag ở đây để truy cập vào controller add
+            ViewBag.Action = "add";
+
             return View();
         }
 
