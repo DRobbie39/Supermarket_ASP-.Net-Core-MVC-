@@ -38,6 +38,8 @@
         <div>
             @RenderBody()
         </div>
+        @*Dùng Async để tăng hiệu năng phần mềm*@
+        @await RenderSectionAsync("Scripts", required: false)
     </div>  
 </body>
 </html>

@@ -31,5 +31,28 @@ namespace Supermarket.Controllers
 
             return View(category);
         }
+
+        public IActionResult Add()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Add(Category category)
+        {
+            if (ModelState.IsValid)
+            {
+                CategoriesRepository.AddCategory(category);
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View(category);
+        }
+
+        public IActionResult Delete(int categoryId)
+        {
+            CategoriesRepository.DeleteCategory(categoryId);
+            return RedirectToAction(nameof(Index));
+        }
     }
 }

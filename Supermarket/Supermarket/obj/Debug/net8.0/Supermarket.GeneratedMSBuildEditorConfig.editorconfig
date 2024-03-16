@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Study\HK2 2023-2024\Supermarket_ASP-.Net-Core-MVC-\Supermarket\Supermarket
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Study/HK2 2023-2024/Supermarket_ASP-.Net-Core-MVC-/Supermarket/Supermarket/Views/Categories/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Study/HK2 2023-2024/Supermarket_ASP-.Net-Core-MVC-/Supermarket/Supermarket/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
